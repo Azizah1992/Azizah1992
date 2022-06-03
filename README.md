@@ -8,3 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .Im coffee person ..
 -->
+###### Snake gif
+![snake gif](https://github.com/Azizah1992/Azizah1992/blob/output/github-contribution-grid-snake.gif)
